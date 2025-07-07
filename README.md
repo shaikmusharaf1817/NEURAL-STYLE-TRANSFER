@@ -25,6 +25,7 @@ Style Loss: Utilizes "Gram Matrices" to match the stylistic patterns and texture
 + **Iterative Refinement**: The generated image is iteratively updated using an optimizer (like Adam) to reduce the overall loss. This process continues for a specified number of iterations, gradually blending the content and style.
 
 **Purpose:**
+
 This tool serves as a practical demonstration of neural style transfer, allowing users to:
 
 - Experiment with applying various artistic styles to their own images.

@@ -12,7 +12,7 @@
 
 **MENTOR**: NEELA SANTHOSH
 
-#DESCRIPTION:
+# DESCRIPTION:
 The Neural Style Transfer Model is a Python script designed to artistically transform photographs by applying the visual style of one image (the "style image") to the content of another image (the "content image"). The result is a unique output image that blends the subject matter of the photograph with the aesthetic characteristics of the painting.
 
 ## Here's an overview of its core functionality:
@@ -31,7 +31,7 @@ Experiment with applying various artistic styles to their own images.
 Explore a fascinating application of deep learning in computer vision and computational creativity.
 Understand the underlying principles of how neural networks can learn and combine visual representations.
 The script is tailored for use in Google Colab, allowing users to easily upload their own content and style images directly within the notebook environment.
-#output:
-<ins> </ins>
+# output:
+---
 ![Screenshot 2025-07-07 174022](https://github.com/user-attachments/assets/b31e79a7-68f4-4bf2-a6c1-96a2409a0c08)
 
